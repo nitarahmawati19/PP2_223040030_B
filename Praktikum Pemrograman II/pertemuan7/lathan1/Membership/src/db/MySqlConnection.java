@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class MySqlConnection {
-    private final static String DB_URL = "jdbc:mysql://membership";
+    private final static String DB_URL = "jdbc:mysql://pp2_membership";
     private final static String DB_USER = "root";
     private final static String DB_PASS = "1234";
 
